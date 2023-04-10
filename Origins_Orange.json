@@ -123,7 +123,10 @@
         "PRIMARY_900": "#090909",
         "YELLOW_300": "#ffffff",
         "BRAND_260": "#b1b1b1",
-        "BRAND_500": "#b1b1b1"
+        "BRAND_500": "#b1b1b1",
+        "BRAND_560": "#b1a1e9",
+        "GREEN_360": "#b1a1e9",
+        "RED_400": "#b1a1e9"
     },
     "spec": 2
 }
