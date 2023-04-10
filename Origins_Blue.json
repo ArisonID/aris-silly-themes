@@ -18,7 +18,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#281b54"
+            "#091e3b"
         ],
         "TEXT_DANGER": [
             "#185ab8"
@@ -33,7 +33,7 @@
             "#185ab8"
         ],
         "INTERACTIVE_MUTED": [
-            "#747474"
+            "#091e3b"
         ],
         "BACKGROUND_PRIMARY": [
             "#071a36"
