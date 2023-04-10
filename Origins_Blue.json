@@ -102,7 +102,7 @@
             "#185ab8"
         ],
         "CHANNELS_DEFAULT": [
-            "#113366"
+            "#344f75"
         ],
         "CHAT_BACKGROUND": [
             "#071a36"
@@ -123,7 +123,8 @@
         "PRIMARY_900": "#090909",
         "YELLOW_300": "#ffffff",
         "BRAND_260": "#b1b1b1",
-        "BRAND_500": "#185ab8"
+        "BRAND_500": "#185ab8",
+        
     },
     "spec": 2
 }
