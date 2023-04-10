@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#b1a1e9"
         ],
         "HEADER_SECONDARY": [
-            "#949494"
+            "#736b8e"
         ],
         "TEXT_NORMAL": [
             "#d3c7fc"
@@ -125,7 +125,7 @@
         "BRAND_260": "#b1a1e9",
         "BRAND_500": "#b1a1e9",
         "BRAND_560": "#b1a1e9",
-        "GREEN_360": "#b1a1e9
+        "GREEN_360": "#b1a1e9",
         "RED_400": "#b1a1e9"
     },
     "spec": 2
