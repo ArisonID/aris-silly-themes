@@ -106,6 +106,9 @@
         ],
         "CHAT_BACKGROUND": [
             "#071a36"
+        ],
+        "TEXT_LINK": [
+            "#185ab8"
         ]
     },
     "rawColors": {
