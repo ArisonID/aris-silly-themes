@@ -39,10 +39,10 @@
             "#330711"
         ],
         "BACKGROUND_SECONDARY": [
-            "#591020"
+            "#400915"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#591020"
+            "#400915"
         ],
         "BACKGROUND_TERTIARY": [
             "#330711"
@@ -51,7 +51,7 @@
             "#9e0025"
         ],
         "BACKGROUND_FLOATING": [
-            "#591020"
+            "#400915"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#330711"
@@ -60,7 +60,7 @@
             "#69061c"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#591020"
+            "#400915"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#871830"
@@ -87,13 +87,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#591020"
+            "#400915"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#591020"
+            "#400915"
         ],
         "KEYBOARD": [
-            "#591020"
+            "#400915"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#edb7c3"
