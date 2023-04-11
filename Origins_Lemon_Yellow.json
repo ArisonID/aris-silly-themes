@@ -1,5 +1,5 @@
 {
-    "name": "Origins - Piss Yellow",
+    "name": "Origins - Lemon Yellow",
     "description": "3 of 4, randomly selected colors from the members of Sound's World.",
     "authors": [
         {
@@ -9,103 +9,103 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#e6daa1"
         ],
         "HEADER_SECONDARY": [
-            "#949494"
+            "#857d56"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#e6daa1"
         ],
         "TEXT_MUTED": [
-            "#281b54"
+            "#756d46"
         ],
         "TEXT_DANGER": [
-            "#b1a1e9"
+            "#edd45c"
+        ],
+        "TEXT_LINK": [
+            "#e8c315"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b1a1e9"
+            "#756d46"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b1a1e9"
+            "#e6daa1"
         ],
         "INTERACTIVE_MUTED": [
-            "#747474"
+            "#756d43"
         ],
         "BACKGROUND_PRIMARY": [
-            "#31206b"
+            "#473d0a"
         ],
         "BACKGROUND_SECONDARY": [
-            "#422b94"
+            "#6e5d0d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3f2a87"
+            "#6e5d0d"
         ],
         "BACKGROUND_TERTIARY": [
-            "#281b54"
+            "#473d0a"
         ],
         "BACKGROUND_ACCENT": [
-            "#b1a1e9"
+            "#e8c315"
         ],
         "BACKGROUND_FLOATING": [
-            "#4a3c7d"
+            "#473d0a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#241c45"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#47338f"
+            "#473d0a"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#37286a"
+            "#6e5d0d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e1542"
+            "#6e5d0d"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#412c96"
+            "#827740"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#241c45"
+            "#473d0a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#47338f"
+            "#877312"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3c2880"
+            "#947c12"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#b1a1e9"
+            "#e8c315"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#5c4e97"
+            "#e8c315"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#281b54"
+            "#6e5d0d"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#281b54"
+            "#6e5d0d"
         ],
         "KEYBOARD": [
-            "#281b54"
+            "#6e5d0d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b1a1e9"
+            "#e6daa1"
         ],
         "CHANNEL_ICON": [
-            "#b1a1e9"
+            "#8a7311"
         ],
         "CHANNELS_DEFAULT": [
-            "#B6B6B6"
+            "#948a5c"
         ],
         "CHAT_BACKGROUND": [
-            "#241c45"
+            "#473d0a"
         ]
     },
     "rawColors": {
@@ -118,14 +118,13 @@
         "PRIMARY_500": "#292929",
         "PRIMARY_600": "#111111",
         "PRIMARY_630": "#1F1F1F",
-        "PRIMARY_660":
-"#1F1F1F"
+        "PRIMARY_660": "#1F1F1F"
         "PRIMARY_700": "#090909",
         "PRIMARY_800": "#090909",
         "PRIMARY_900": "#090909",
         "YELLOW_300": "#ffffff",
         "BRAND_260": "#b1b1b1",
-        "BRAND_500": "#b1b1b1",
+        "BRAND_500": "#e8c315",
         "BRAND_560": "#b1a1e9",
         "GREEN_360": "#b1a1e9",
         "RED_400": "#b1a1e9",
