@@ -1,6 +1,6 @@
 {
-    "name": "Placeholder",
-    "description": "Placeholder",
+    "name": "Origins - Yin & Yang",
+    "description": "4 of 4, randomly picked colors from the members of Sound's World.",
     "authors": [
         {
             "name": "Ari",
@@ -12,100 +12,100 @@
             "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#949494"
+            "#bdbdbd"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#281b54"
+            "#bdbdbd"
         ],
         "TEXT_DANGER": [
-            "#b1a1e9"
+            "#ffffff"
+        ],
+        "TEXT_LINK": [
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b1a1e9"
+            "#616161"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#747474"
+            "#bdbdbd"
         ],
         "BACKGROUND_PRIMARY": [
-            "#31206b"
+            "#212121"
         ],
         "BACKGROUND_SECONDARY": [
-            "#422b94"
+            "#303030"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3f2a87"
+            "#303030"
         ],
         "BACKGROUND_TERTIARY": [
-            "#281b54"
+            "#303030"
         ],
         "BACKGROUND_ACCENT": [
-            "#b1a1e9"
+            "#8c8c8c"
         ],
         "BACKGROUND_FLOATING": [
-            "#4a3c7d"
+            "#303030"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#241c45"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#47338f"
+            "#212121"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#37286a"
+            "#303030"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e1542"
+            "#303030"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#412c96"
+            "#616160"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#241c45"
+            "#212121"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#47338f"
+            "#474747"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3c2880"
+            "#575757"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#b1a1e9"
+            "#575757"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#5c4e97"
+            "#575757"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#281b54"
+            "#303030"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#281b54"
+            "#303030"
         ],
         "KEYBOARD": [
-            "#281b54"
+            "#303030"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b1a1e9"
+            "#9c9c9c"
         ],
         "CHANNEL_ICON": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
-            "#B6B6B6"
+            "#808080"
         ],
         "CHAT_BACKGROUND": [
-            "#241c45"
+            "#212121"
         ]
     },
     "rawColors": {
@@ -118,8 +118,7 @@
         "PRIMARY_500": "#292929",
         "PRIMARY_600": "#111111",
         "PRIMARY_630": "#1F1F1F",
-        "PRIMARY_660":
-"#1F1F1F"
+        "PRIMARY_660": "#1F1F1F",
         "PRIMARY_700": "#090909",
         "PRIMARY_800": "#090909",
         "PRIMARY_900": "#090909",
