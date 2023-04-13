@@ -42,10 +42,10 @@
             "#212121"
         ],
         "BACKGROUND_SECONDARY": [
-            "#303030"
+            "#2e2e2e"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#303030"
+            "#2e2e2e"
         ],
         "BACKGROUND_TERTIARY": [
             "#212121"
@@ -54,16 +54,16 @@
             "#8c8c8c"
         ],
         "BACKGROUND_FLOATING": [
-            "#303030"
+            "#2e2e2e"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#212121"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#303030"
+            "#2e2e2e"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#303030"
+            "#2e2e2e"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#616160"
@@ -87,13 +87,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#303030"
+            "#2e2e2e"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#303030"
+            "#2e2e2e"
         ],
         "KEYBOARD": [
-            "#303030"
+            "#2e2e2e"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#9c9c9c"
@@ -109,29 +109,29 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#747474",
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#B6B6B6",
-        "PRIMARY_360": "#C8C8C8",
-        "PRIMARY_400": "#585858",
-        "PRIMARY_500": "#292929",
-        "PRIMARY_600": "#111111",
-        "PRIMARY_630": "#1F1F1F",
-        "PRIMARY_660": "#1F1F1F",
-        "PRIMARY_700": "#090909",
-        "PRIMARY_800": "#090909",
-        "PRIMARY_900": "#090909",
+        "PRIMARY": "#212121",
+        "PRIMARY_100": "#a1a1a1",
+        "PRIMARY_200": "#696969",
+        "PRIMARY_300": "#a3a3a3",
+        "PRIMARY_360": "#a1a1a1",
+        "PRIMARY_400": "#a3a3a3",
+        "PRIMARY_500": "#212121",
+        "PRIMARY_600": "#212121",
+        "PRIMARY_630": "#212121",
+        "PRIMARY_660": "#212121",
+        "PRIMARY_700": "#212121",
+        "PRIMARY_800": "#212121",
+        "PRIMARY_900": "#212121",
         "YELLOW_300": "#ffffff",
-        "BRAND_260": "#b1b1b1",
-        "BRAND_500": "#b1b1b1",
-        "BRAND_560": "#b1a1e9",
-        "GREEN_360": "#b1a1e9",
-        "RED_400": "#b1a1e9",
-        "ORANGE_345": "#9279ed",
-        "RED_560": "#7150eb",
-        "GREEN_345": "#5a32ed",
-        "BLUE_345": "#3d0ced"
+        "BRAND_260": "#7d7d7d",
+        "BRAND_500": "#a3a3a3",
+        "BRAND_560": "#a3a3a3",
+        "GREEN_360": "#969696",
+        "RED_400": "#a3a3a3",
+        "ORANGE_345": "#a3a3a3",
+        "RED_560": "#8a8a8a",
+        "GREEN_345": "#616161",
+        "BLUE_345": "#424242"
 
     },
     "spec": 2
