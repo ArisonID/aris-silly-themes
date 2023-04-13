@@ -18,7 +18,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#bdbdbd"
+            "#454545"
         ],
         "TEXT_DANGER": [
             "#ffffff"
@@ -99,10 +99,10 @@
             "#9c9c9c"
         ],
         "CHANNEL_ICON": [
-            "#ffffff"
+            "#4f4f4f"
         ],
         "CHANNELS_DEFAULT": [
-            "#808080"
+            "#4f4f4f"
         ],
         "CHAT_BACKGROUND": [
             "#212121"
