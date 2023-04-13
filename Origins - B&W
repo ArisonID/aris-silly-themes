@@ -12,13 +12,13 @@
             "#a1a1a1"
         ],
         "HEADER_SECONDARY": [
-            "#6b6b6b"
+            "#bdbdbd"
         ],
         "TEXT_NORMAL": [
             "#a1a1a1"
         ],
         "TEXT_MUTED": [
-            "#616161"
+            "#6b6b6b"
         ],
         "TEXT_DANGER": [
             "#ffffff"
@@ -36,7 +36,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#bdbdbd"
+            "#6b6b6b"
         ],
         "BACKGROUND_PRIMARY": [
             "#212121"
