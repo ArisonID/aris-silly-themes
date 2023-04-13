@@ -15,10 +15,10 @@
             "#bdbdbd"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#b3b3b3"
         ],
         "TEXT_MUTED": [
-            "#454545"
+            "#787878"
         ],
         "TEXT_DANGER": [
             "#ffffff"
@@ -99,10 +99,10 @@
             "#9c9c9c"
         ],
         "CHANNEL_ICON": [
-            "#4f4f4f"
+            "#808080"
         ],
         "CHANNELS_DEFAULT": [
-            "#4f4f4f"
+            "#808080"
         ],
         "CHAT_BACKGROUND": [
             "#212121"
