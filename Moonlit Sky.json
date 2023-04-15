@@ -1,6 +1,6 @@
 {
-    "name": "Placeholder",
-    "description": "Placeholder",
+    "name": "Moonlit Sky",
+    "description": "wtf do I put here",
     "authors": [
         {
             "name": "Ari",
@@ -118,8 +118,7 @@
         "PRIMARY_500": "#292929",
         "PRIMARY_600": "#111111",
         "PRIMARY_630": "#1F1F1F",
-        "PRIMARY_660":
-"#1F1F1F"
+        "PRIMARY_660": "#1F1F1F",
         "PRIMARY_700": "#090909",
         "PRIMARY_800": "#090909",
         "PRIMARY_900": "#090909",
@@ -134,6 +133,11 @@
         "GREEN_345": "#5a32ed",
         "BLUE_345": "#3d0ced"
        
+    },
+    "background": {
+        "blur": 1,
+        "url": "https://cdn.discordapp.com/attachments/919920863720120382/1096907382082261072/New_Project_98_FE88E96.png",
+        "alpha": 1
     },
     "spec": 2
 }
