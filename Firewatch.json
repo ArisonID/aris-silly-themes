@@ -1,6 +1,6 @@
 {
-    "name": "Firewatch - Orange",
-    "description": "Name is TBD.",
+    "name": "Firewatch",
+    "description": "TBD",
     "authors": [
         {
             "name": "Ari",
@@ -18,94 +18,91 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#281b54"
+            "#949494"
         ],
         "TEXT_DANGER": [
-            "#b1a1e9"
+            "#530557"
+        ],
+        "TEXT_LINK": [
+            "#530557"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b1a1e9"
+            "#520057"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b1a1e9"
+            "#6f0075"
         ],
         "INTERACTIVE_MUTED": [
-            "#747474"
+            "#949494"
         ],
         "BACKGROUND_PRIMARY": [
-            "#31206b"
+            "#3b013e"
         ],
         "BACKGROUND_SECONDARY": [
-            "#422b94"
+            "#550059"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3f2a87"
+            "#550059"
         ],
         "BACKGROUND_TERTIARY": [
-            "#281b54"
+            "#3b013e"
         ],
         "BACKGROUND_ACCENT": [
-            "#b1a1e9"
+            "#6f0075"
         ],
         "BACKGROUND_FLOATING": [
-            "#4a3c7d"
+            "#6f0075"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#241c45"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#47338f"
+            "#3b013e"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#37286a"
+            "#6f0075"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e1542"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#412c96"
+            "#6f0075"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#241c45"
+            "#3b013e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#47338f"
+            "#440047"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3c2880"
+            "#790080"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#b1a1e9"
+            "#790080"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#5c4e97"
+            "#790080"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#281b54"
+            "#6f0075"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#281b54"
+            "#6f0075"
         ],
         "KEYBOARD": [
-            "#281b54"
+            "#6f0075"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b1a1e9"
+            "#transparent"
         ],
         "CHANNEL_ICON": [
-            "#b1a1e9"
+            "#949494"
         ],
         "CHANNELS_DEFAULT": [
-            "#B6B6B6"
+            "#949494"
         ],
         "CHAT_BACKGROUND": [
-            "#241c45"
+            "#000000"
         ]
     },
     "rawColors": {
@@ -137,7 +134,7 @@
     "background": {
         "blur": 0,
         "url": "https://cdn.discordapp.com/attachments/919920863720120382/1096933793165758494/New_Project_101_A52A546.png",
-        "alpha": 1
+        "alpha": 2
     },
     "spec": 2
 }
