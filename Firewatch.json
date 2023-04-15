@@ -27,70 +27,70 @@
             "#530557"
         ],
         "INTERACTIVE_NORMAL": [
-            "#520057"
+            "#404040"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#6f0075"
+            "#9c9c9c"
         ],
         "INTERACTIVE_MUTED": [
             "#949494"
         ],
         "BACKGROUND_PRIMARY": [
-            "#3b013e"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#550059"
+            "#1a1a1a"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#550059"
+            "#1a1a1a"
         ],
         "BACKGROUND_TERTIARY": [
-            "#3b013e"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "BACKGROUND_FLOATING": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#3b013e"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#3b013e"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#440047"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#790080"
+            "#303030"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#790080"
+            "#303030"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#790080"
+            "#303030"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "KEYBOARD": [
-            "#6f0075"
+            "#1a1a1a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#transparent"
