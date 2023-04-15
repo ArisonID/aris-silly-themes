@@ -1,0 +1,159 @@
+{
+    "name": "DiscordPlus",
+    "description": "I love sunsets",
+    "authors": [
+        {
+            "name": "Abby",
+            "id": "499287211381096458"
+        }
+    ],
+    "semanticColors": {
+        "KEYBOARD": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "HEADER_PRIMARY": [
+            "#FBFBFB",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#B6B6B6",
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FBFBFB",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#B6B6B6",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c8c8c8",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#fbfbfb",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#747474",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#210001",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#292929",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#292929",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "rgba(0, 0, 0, 0.1)",
+            "#FFFFFF"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#BFBFBF",
+            "#FFFFFF"
+        ],
+        "TEXT_LINK": [
+            "#d33e47",
+            "#6c56c4"
+        ],
+        "CHANNEL_ICON": [
+            "#BFBFBF",
+            "#6c56c4"
+        ],
+        "CHAT_BACKGROUND": [
+            "#210001",
+            "#FFFFFF"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#0c0c0c",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#C8C8C8",
+        "PRIMARY_600": "#210001",
+        "PRIMARY_630": "#1f1f1f",
+        "PRIMARY_700": "#210001",
+        "PRIMARY_800": "#210001",
+        "PRIMARY_900": "#210001"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/996426870633545831/1017453599237886102/1FDDC9C0-5FF0-4759-B813-B03022E48364.jpg",
+        "alpha": 1
+    },
+    "spec": 2
+}
