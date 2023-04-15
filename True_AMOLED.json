@@ -1,6 +1,6 @@
 {
-    "name": "Firewatch",
-    "description": "TBD",
+    "name": "True AMOLED",
+    "description": "when AMOLED isn't enough ☠️",
     "authors": [
         {
             "name": "Ari",
@@ -42,55 +42,55 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#1a1a1a"
+            "#949494"
         ],
         "BACKGROUND_FLOATING": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#303030"
+            "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#303030"
+            "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#303030"
+            "#000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#1a1a1a"
+            "#000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#1a1a1a"
+            "#000000"
         ],
         "KEYBOARD": [
-            "#1a1a1a"
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#transparent"
