@@ -1,0 +1,15 @@
+{
+    "name": "MountainsBG",
+    "description": "s",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1096953234763026462/New_Project_101_4419271.png",
+    "alpha": 1.0
+  }
+}
