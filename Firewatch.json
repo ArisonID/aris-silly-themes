@@ -9,16 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#4a64ba"
         ],
         "HEADER_SECONDARY": [
-            "#949494"
+            "#344680"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#2c3659"
+            "#949494"
         ],
         "TEXT_DANGER": [
             "#0233ac"
@@ -27,16 +27,16 @@
             "#0233ac"
         ],
         "INTERACTIVE_NORMAL": [
-            "#00218c"
+            "#596794"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#536dc2"
+            "#3f57a6"
         ],
         "INTERACTIVE_MUTED": [
-            "#2c3659"
+            "#2a375e"
         ],
         "BACKGROUND_PRIMARY": [
             "#020b28"
@@ -90,13 +90,13 @@
             "#04154a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#transparent"
+            "#0233ac"
         ],
         "CHANNEL_ICON": [
-            "#384982"
+            "#4a64ba"
         ],
         "CHANNELS_DEFAULT": [
-            "#384982"
+            "#4a64ba"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
