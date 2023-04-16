@@ -1,0 +1,15 @@
+{
+    "name": "FirewatchBlueBG",
+    "description": "t",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1097029200650706944/New_Project_101_8C1A762.png",
+    "alpha": 1.0
+  }
+}
