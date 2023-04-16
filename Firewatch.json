@@ -9,16 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#4a64ba"
+            "#92a8f0"
         ],
         "HEADER_SECONDARY": [
-            "#344680"
+            "#6a77a3"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#92a8f0"
         ],
         "TEXT_MUTED": [
-            "#949494"
+            "#6a77a3"
         ],
         "TEXT_DANGER": [
             "#0233ac"
@@ -27,13 +27,13 @@
             "#0233ac"
         ],
         "INTERACTIVE_NORMAL": [
-            "#596794"
+            "#3c4c82"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#3f57a6"
+            "#5b71bd"
         ],
         "INTERACTIVE_MUTED": [
             "#2a375e"
@@ -104,12 +104,12 @@
     },
     "rawColors": {
         "PRIMARY": "#747474",
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_100": "#92a8f0",
+        "PRIMARY_200": "#6a77a3",
         "PRIMARY_300": "#0233ac",
-        "PRIMARY_360": "#949494",
+        "PRIMARY_360": "#6a77a3",
         "PRIMARY_400": "#0233ac",
-        "PRIMARY_500": "#020b28",
+        "PRIMARY_500": "#92a8f0",
         "PRIMARY_600": "#020b28",
         "PRIMARY_630": "#020b28",
         "PRIMARY_660": "#020b28",
