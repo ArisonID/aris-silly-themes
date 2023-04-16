@@ -1,0 +1,15 @@
+{
+    "name": "FirewatchBG",
+    "description": "BG for discords default themes",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1096933793165758494/New_Project_101_A52A546.png",
+    "alpha": 1.0
+  }
+}
