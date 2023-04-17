@@ -1,6 +1,6 @@
 {
     "name": "Firewatch",
-    "description": "(insert blank here (i can't think of a desc))",
+    "description": "I can't think of a desc 💥",
     "authors": [
         {
             "name": "Ari",
@@ -27,7 +27,7 @@
             "#1d54de"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3c4c82"
+            "#455385"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
@@ -36,16 +36,16 @@
             "#7089e0"
         ],
         "INTERACTIVE_MUTED": [
-            "#2a375e"
+            "#2a3661"
         ],
         "BACKGROUND_PRIMARY": [
             "#020b28"
         ],
         "BACKGROUND_SECONDARY": [
-            "#04154a"
+            "#03144d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#04154a"
+            "#03144d"
         ],
         "BACKGROUND_TERTIARY": [
             "#020b28"
@@ -54,7 +54,7 @@
             "#0a2373"
         ],
         "BACKGROUND_FLOATING": [
-            "#04154a"
+            "#03144d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#020b28"
@@ -63,7 +63,7 @@
             "#020b28"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#04154a"
+            "#03144d"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#020b28"
@@ -81,13 +81,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#04154a"
+            "#03144d"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#04154a"
+            "#03144d"
         ],
         "KEYBOARD": [
-            "#04154a"
+            "#03144d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#0233ac"
