@@ -24,7 +24,7 @@
             "#0233ac"
         ],
         "TEXT_LINK": [
-            "#0233ac"
+            "#1d54de"
         ],
         "INTERACTIVE_NORMAL": [
             "#3c4c82"
@@ -132,7 +132,7 @@
     "background": {
         "blur": 0,
         "url": "https://cdn.discordapp.com/attachments/919920863720120382/1097029200650706944/New_Project_101_8C1A762.png",
-        "alpha": 0.7
+        "alpha": 0.65
     },
     "spec": 2
 }
