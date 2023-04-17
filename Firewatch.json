@@ -132,7 +132,7 @@
     "background": {
         "blur": 0,
         "url": "https://cdn.discordapp.com/attachments/919920863720120382/1097029200650706944/New_Project_101_8C1A762.png",
-        "alpha": -2
+        "alpha": 0.3
     },
     "spec": 2
 }
