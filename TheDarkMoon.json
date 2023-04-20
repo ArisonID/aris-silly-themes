@@ -1,6 +1,6 @@
 {
-    "name": "Placeholder",
-    "description": "Placeholder",
+    "name": "The Dark Moon",
+    "description": "insert desc here",
     "authors": [
         {
             "name": "Ari",
@@ -15,125 +15,123 @@
             "#949494"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#e6e6e6"
         ],
         "TEXT_MUTED": [
-            "#281b54"
+            "#949494"
         ],
         "TEXT_DANGER": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b1a1e9"
+            "#595959"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#747474"
         ],
         "BACKGROUND_PRIMARY": [
-            "#31206b"
+            "#2d2d2d"
         ],
         "BACKGROUND_SECONDARY": [
-            "#422b94"
+            "#2d2d2d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3f2a87"
+            "#2d2d2d"
         ],
         "BACKGROUND_TERTIARY": [
-            "#281b54"
+            "#121212"
         ],
         "BACKGROUND_ACCENT": [
-            "#b1a1e9"
+            "#2d2d2d"
         ],
         "BACKGROUND_FLOATING": [
-            "#4a3c7d"
+            "#2d2d2d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#241c45"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#47338f"
+            "#121212"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#37286a"
+            "#2d2d2d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e1542"
+            "#2d2d2d"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#412c96"
+            "transparent"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#241c45"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#47338f"
+            "#2d2d2d"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#3c2880"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#b1a1e9"
+            "#2a2a2a"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#5c4e97"
+            "#2d2d2d"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#281b54"
+            "#121212"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#281b54"
+            "#121212"
         ],
         "KEYBOARD": [
-            "#281b54"
+            "#121212"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "CHANNEL_ICON": [
-            "#b1a1e9"
+            "#595959"
         ],
         "CHANNELS_DEFAULT": [
-            "#B6B6B6"
+            "#595959"
         ],
         "CHAT_BACKGROUND": [
-            "#241c45"
+            "#000000"
         ]
     },
     "rawColors": {
         "PRIMARY": "#747474",
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#B6B6B6",
-        "PRIMARY_360": "#C8C8C8",
-        "PRIMARY_400": "#585858",
-        "PRIMARY_500": "#292929",
-        "PRIMARY_600": "#111111",
-        "PRIMARY_630": "#1F1F1F",
-        "PRIMARY_660":
-"#1F1F1F"
-        "PRIMARY_700": "#090909",
-        "PRIMARY_800": "#090909",
-        "PRIMARY_900": "#090909",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_360": "#595959",
+        "PRIMARY_400": "#ffffff",
+        "PRIMARY_500": "#2d2d2d",
+        "PRIMARY_600": "#121212",
+        "PRIMARY_630": "#121212",
+        "PRIMARY_660": "#121212",
+        "PRIMARY_700": "#121212",
+        "PRIMARY_800": "#121212",
+        "PRIMARY_900": "#121212",
         "YELLOW_300": "#ffffff",
-        "BRAND_260": "#b1b1b1",
-        "BRAND_500": "#b1b1b1",
-        "BRAND_560": "#b1a1e9",
-        "GREEN_360": "#b1a1e9",
-        "RED_400": "#b1a1e9",
-        "ORANGE_345": "#9279ed",
-        "RED_560": "#7150eb",
-        "GREEN_345": "#5a32ed",
-        "BLUE_345": "#3d0ced"
+        "BRAND_260": "#c4c4c4",
+        "BRAND_500": "#ededed",
+        "BRAND_560": "#ffffff",
+        "GREEN_360": "#ededed",
+        "RED_400": "#2d2d2d",
+        "ORANGE_345": "#121212",
+        "RED_560": "#121212",
+        "GREEN_345": "#121212",
+        "BLUE_345": "#121212"
        
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/919920863720120382/1098746070240084068/New_Project_101_F5A4655.png",
+        "alpha": 0.65
     },
     "spec": 2
 }
