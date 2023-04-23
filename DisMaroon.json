@@ -132,5 +132,10 @@
         "BLUE_345": "#991d61"
        
     },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1099615205253726350/wp7113409-evening-minimal-wallpapers.jpg",
+    "alpha": 0.67
+  },
     "spec": 2
 }
