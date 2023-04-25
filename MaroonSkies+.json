@@ -1,6 +1,6 @@
 {
-    "name": "MaroonSkies",
-    "description": "Maroon colored theme for Vendetta",
+    "name": "MaroonSkies+",
+    "description": "Essentially the same thing, but darker.",
     "authors": [
         {
             "name": "Ari",
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1099615205253726350/wp7113409-evening-minimal-wallpapers.jpg",
-    "alpha": 0.67
+    "alpha": 0.47
   },
     "spec": 2
 }
