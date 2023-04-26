@@ -1,0 +1,15 @@
+{
+    "name": "big ass gif image test",
+    "description": "nyaboom",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1100787473719754792/ezgif.com-video-to-gif.gif",
+    "alpha": 1.0
+  }
+}
