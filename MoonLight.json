@@ -1,6 +1,6 @@
 {
-    "name": "Placeholder",
-    "description": "Placeholder",
+    "name": "MoonLight",
+    "description": "For those who like the moon... I guess",
     "authors": [
         {
             "name": "Ari",
@@ -12,128 +12,130 @@
             "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#949494"
+            "#ededed"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#ededed"
         ],
         "TEXT_MUTED": [
-            "#281b54"
+            "#5e5e5e"
         ],
         "TEXT_DANGER": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b1a1e9"
+            "#7a7a7a"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#747474"
+            "#424242"
         ],
         "BACKGROUND_PRIMARY": [
-            "#31206b"
+            "#0e0e0e"
         ],
         "BACKGROUND_SECONDARY": [
-            "#422b94"
+            "#0e0e0e"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#3f2a87"
+            "#0e0e0e"
         ],
         "BACKGROUND_TERTIARY": [
-            "#281b54"
+            "#0e0e0e"
         ],
         "BACKGROUND_ACCENT": [
-            "#b1a1e9"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#4a3c7d"
+            "#0e0e0e"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#241c45"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#47338f"
+            "#0e0e0e"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#37286a"
+            "#0e0e0e"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1e1542"
+            "#0e0e0e"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#412c96"
+            "#696969"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#241c45"
+            "#0e0e0e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#47338f"
+            "#363636"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3c2880"
+            "#333333"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#b1a1e9"
+            "#333333"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#5c4e97"
+            "#000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#281b54"
+            "#0e0e0e"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#281b54"
+            "#0e0e0e"
         ],
         "KEYBOARD": [
-            "#281b54"
+            "#0e0e0e"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#b1a1e9"
+            "#ffffff"
         ],
         "CHANNEL_ICON": [
-            "#b1a1e9"
+            "#575757"
         ],
         "CHANNELS_DEFAULT": [
-            "#B6B6B6"
+            "#575757"
         ],
         "CHAT_BACKGROUND": [
-            "#241c45"
+            "#0e0e0e"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#747474",
+        "PRIMARY": "#0e0e0e",
         "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#B6B6B6",
-        "PRIMARY_360": "#C8C8C8",
-        "PRIMARY_400": "#585858",
-        "PRIMARY_500": "#292929",
-        "PRIMARY_600": "#111111",
-        "PRIMARY_630": "#1F1F1F",
-        "PRIMARY_660":
-"#1F1F1F"
-        "PRIMARY_700": "#090909",
-        "PRIMARY_800": "#090909",
-        "PRIMARY_900": "#090909",
+        "PRIMARY_200": "#ededed",
+        "PRIMARY_300": "#0e0e0e",
+        "PRIMARY_360": "#575757",
+        "PRIMARY_400": "#0e0e0e",
+        "PRIMARY_500": "#3d3d3d",
+        "PRIMARY_600": "#0e0e0e",
+        "PRIMARY_630": "#0e0e0e",
+        "PRIMARY_660": "#0e0e0e",
+        "PRIMARY_700": "#0e0e0e",
+        "PRIMARY_800": "#0e0e0e",
+        "PRIMARY_900": "#0e0e0e",
         "YELLOW_300": "#ffffff",
-        "BRAND_260": "#b1b1b1",
-        "BRAND_500": "#b1b1b1",
-        "BRAND_560": "#b1a1e9",
-        "GREEN_360": "#b1a1e9",
-        "RED_400": "#b1a1e9",
-        "ORANGE_345": "#9279ed",
-        "RED_560": "#7150eb",
-        "GREEN_345": "#5a32ed",
-        "BLUE_345": "#3d0ced"
+        "BRAND_260": "#7d7d7d",
+        "BRAND_500": "#adadad",
+        "BRAND_560": "#ffffff",
+        "GREEN_360": "#919191",
+        "RED_400": "#adadad",
+        "ORANGE_345": "#808080",
+        "RED_560": "#707070",
+        "GREEN_345": "#616161",
+        "BLUE_345": "#303030",
+        "WHITE_500": "#FFFFFF"
        
     },
-    "spec": 2
+   "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1100779869220114492/New_Project_104_B29F607.png",
+    "alpha": 1.0
+    },
+     "spec": 2
 }
