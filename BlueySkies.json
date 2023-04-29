@@ -21,10 +21,10 @@
             "#8b92b5"
         ],
         "TEXT_DANGER": [
-            "#566bd6"
+            "#4d68eb"
         ],
         "TEXT_LINK": [
-            "#324fe3"
+            "#4d68eb"
         ],
         "INTERACTIVE_NORMAL": [
             "#959ec4"
@@ -119,7 +119,7 @@
         "PRIMARY_700": "#040c33",
         "PRIMARY_800": "#040c33",
         "PRIMARY_900": "#040c33",
-        "YELLOW_300": "#566bd6",
+        "YELLOW_300": "#7687db",
         "BRAND_260": "#566bd6",
         "BRAND_360": "#566bd6",
         "BRAND_500": "#566bd6",
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1101849588786278480/New_Project_101_C5DF9F8.png",
-    "alpha": 0.67
+    "alpha": 0.61
   },
     "spec": 2
 }
