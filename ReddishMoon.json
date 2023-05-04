@@ -1,6 +1,6 @@
 {
-    "name": "MaroonSkies",
-    "description": "Maroon colored theme for Vendetta",
+    "name": "ReddishMoon",
+    "description": "yop",
     "authors": [
         {
             "name": "Ari",
@@ -135,8 +135,8 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1099615205253726350/wp7113409-evening-minimal-wallpapers.jpg",
-    "alpha": 0.67
+    "url": "https://e0.pxfuel.com/wallpapers/443/886/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg",
+    "alpha": 0.68
   },
     "spec": 2
 }
