@@ -1,6 +1,6 @@
 {
-    "name": "BlurpleSkies",
-    "description": "Same thing, Blurple.",
+    "name": "BlurplSkies",
+    "description": "Same thing, Blurpl.",
     "authors": [
         {
             "name": "Ari",
@@ -91,13 +91,13 @@
             "#1b2036"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#5865f2"
+            "#8d96f0"
         ],
         "CHANNEL_ICON": [
-            "#606382"
+            "#85868f"
         ],
         "CHANNELS_DEFAULT": [
-            "#606382"
+            "##85868f"
         ],
         "CHAT_BACKGROUND": [
             "#1b2036"
@@ -120,11 +120,11 @@
         "PRIMARY_700": "#1b2036",
         "PRIMARY_800": "#1b2036",
         "PRIMARY_900": "#1b2036",
-        "YELLOW_300": "#5865f2",
+        "YELLOW_300": "#767dcf",
         "BRAND_260": "#31388f",
-        "BRAND_360": "#5865f2",
+        "BRAND_360": "#8d96f0",
         "BRAND_500": "#5865f2",
-        "BRAND_560": "#5865f2",
+        "BRAND_560": "#767dcf",
         "GREEN_360": "#5865f2",
         "RED_400": "#5865f2",
         "ORANGE_345": "#5865f2",
