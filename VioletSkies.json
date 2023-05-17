@@ -36,7 +36,7 @@
             "#dbd7f5"
         ],
         "INTERACTIVE_MUTED": [
-            "#8d8aa1"
+            "#6d698a"
         ],
         "BACKGROUND_PRIMARY": [
             "#161033"
@@ -70,6 +70,9 @@
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#171133"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4e418c"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#291e5c"
