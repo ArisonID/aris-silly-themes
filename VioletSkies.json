@@ -39,55 +39,55 @@
             "#8d8aa1"
         ],
         "BACKGROUND_PRIMARY": [
-            "#171133"
+            "#161033"
         ],
         "BACKGROUND_SECONDARY": [
-            "#281f70"
+            "#22158b"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#281f70"
+            "#22158b"
         ],
         "BACKGROUND_TERTIARY": [
-            "#171133"
+            "#161033"
         ],
         "BACKGROUND_ACCENT": [
-            "#171133"
+            "#161033"
         ],
         "BACKGROUND_FLOATING": [
-            "#281f70"
+            "#22158b"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#171133"
+            "#161033"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#281f70"
+            "#22158b"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#281f70"
+            "#22158b"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#281f70"
+            "#22158b"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#171133"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#281f70"
+            "#22158b"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#281f70"
+            "#22158b"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#171133"
+            "#161033"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#171133"
+            "#161033"
         ],
         "KEYBOARD": [
-            "#171133"
+            "#161033"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#dbd7f5"
@@ -99,23 +99,23 @@
             "#a39fbf"
         ],
         "CHAT_BACKGROUND": [
-            "#171133"
+            "#161033"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#171133",
+        "PRIMARY": "#161033",
         "PRIMARY_100": "#dbd7f5",
         "PRIMARY_200": "#c3bfe3",
         "PRIMARY_300": "#6a58f5",
         "PRIMARY_360": "#a39fbf",
         "PRIMARY_400": "#6a58f5",
-        "PRIMARY_500": "#281f70",
-        "PRIMARY_600": "#171133",
-        "PRIMARY_630": "#281f70",
-        "PRIMARY_660": "#281f70",
-        "PRIMARY_700": "#281f70",
-        "PRIMARY_800": "#281f70",
-        "PRIMARY_900": "#281f70",
+        "PRIMARY_500": "#22158b",
+        "PRIMARY_600": "#161033",
+        "PRIMARY_630": "#22158b",
+        "PRIMARY_660": "#22158b",
+        "PRIMARY_700": "#22158b",
+        "PRIMARY_800": "#22158b",
+        "PRIMARY_900": "#22158b",
         "YELLOW_300": "#6a58f5",
         "BRAND_260": "#6a58f5",
         "BRAND_360": "#9488f2",
