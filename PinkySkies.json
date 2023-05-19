@@ -1,0 +1,142 @@
+{
+    "name": "PinkySkies",
+    "description": "Thing same, Thing same.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f2d8de"
+        ],
+        "HEADER_SECONDARY": [
+            "#d1b6bd"
+        ],
+        "TEXT_NORMAL": [
+            "#f2d8de"
+        ],
+        "TEXT_MUTED": [
+            "#d1b6bd"
+        ],
+        "TEXT_DANGER": [
+            "#eb3f6a"
+        ],
+        "TEXT_LINK": [
+            "#eb3f6a"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#d1b6bd"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f2d8de"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#8a797d"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#572f39"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#723e4b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#572f39"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#572f39"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#965163"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#572f39"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#572f39"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#723e4b"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#723e4b"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#572f39"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#572f39"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#8f4f5f"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#723e4b"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#723e4b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#572f39"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#572f39"
+        ],
+        "KEYBOARD": [
+            "#572f39"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#f2d8de"
+        ],
+        "CHANNEL_ICON": [
+            "#d1b6bd"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#d1b6bd"
+        ],
+        "CHAT_BACKGROUND": [
+            "#572f39"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#572f39",
+        "PRIMARY_100": "#f2d8de",
+        "PRIMARY_200": "#d1b6bd",
+        "PRIMARY_300": "#eb3f6a",
+        "PRIMARY_360": "#d1b6bd",
+        "PRIMARY_400": "#eb3f6a",
+        "PRIMARY_500": "#723e4b",
+        "PRIMARY_600": "#572f39",
+        "PRIMARY_630": "#572f39",
+        "PRIMARY_660": "#572f39",
+        "PRIMARY_700": "#572f39",
+        "PRIMARY_800": "#572f39",
+        "PRIMARY_900": "#572f39",
+        "YELLOW_300": "#eb3f6a",
+        "BRAND_260": "#eb3f6a",
+        "BRAND_360": "#e35f80",
+        "BRAND_500": "#eb3f6a",
+        "BRAND_560": "#a1425a",
+        "GREEN_360": "#eb3f6a",
+        "RED_400": "#eb3f6a",
+        "ORANGE_345": "#eb3f6a",
+        "RED_560": "#eb3f6a",
+        "GREEN_345": "#eb3f6a",
+        "BLUE_345": "#eb3f6a",
+        "WHITE_500": "#f2d8de"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://w0.peakpx.com/wallpaper/457/82/HD-wallpaper-pinky-day-minimalist-landscape-colour-mountain-pink-purple-forest-magenta-morning-sky-sunrise-sunset-2d-gibranibang.jpg",
+    "alpha": 0.67
+  },
+    "spec": 2
+}
