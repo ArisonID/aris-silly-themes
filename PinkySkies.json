@@ -45,7 +45,7 @@
             "#723e4b"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#572f39"
+            "#723e4b"
         ],
         "BACKGROUND_TERTIARY": [
             "#572f39"
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://w0.peakpx.com/wallpaper/457/82/HD-wallpaper-pinky-day-minimalist-landscape-colour-mountain-pink-purple-forest-magenta-morning-sky-sunrise-sunset-2d-gibranibang.jpg",
-    "alpha": 0.67
+    "alpha": 0.53
   },
     "spec": 2
 }
