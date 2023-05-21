@@ -1,6 +1,6 @@
 {
-    "name": "PinkySkies",
-    "description": "Thing same, Thing same.",
+    "name": "RosieSkies",
+    "description": "The same, but Rosiefied™ :3",
     "authors": [
         {
             "name": "Ari",
@@ -36,7 +36,7 @@
             "#f2d8de"
         ],
         "INTERACTIVE_MUTED": [
-            "#8a797d"
+            "#ab969c"
         ],
         "BACKGROUND_PRIMARY": [
             "#572f39"
