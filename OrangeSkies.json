@@ -95,6 +95,9 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#f0d5c2"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#c9b19f"
+        ],
         "CHANNEL_ICON": [
             "#c9b19f"
         ],
