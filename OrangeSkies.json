@@ -21,10 +21,10 @@
             "#c9b19f"
         ],
         "TEXT_DANGER": [
-            "#c96720"
+            "#e3792d"
         ],
         "TEXT_LINK": [
-            "#c96720"
+            "#ad6632"
         ],
         "INTERACTIVE_NORMAL": [
             "#c9b19f"
@@ -107,11 +107,11 @@
     },
     "rawColors": {
         "PRIMARY": "#6c472c",
-        "PRIMARY_100": "#c9b19f",
+        "PRIMARY_100": "#f0d5c2",
         "PRIMARY_200": "#c9b19f",
-        "PRIMARY_300": "#c96720",
+        "PRIMARY_300": "#e3792d",
         "PRIMARY_360": "#c9b19f",
-        "PRIMARY_400": "#c96720",
+        "PRIMARY_400": "#e3792d",
         "PRIMARY_500": "#8c5b38",
         "PRIMARY_600": "#6c472c",
         "PRIMARY_630": "#6c472c",
@@ -119,17 +119,17 @@
         "PRIMARY_700": "#6c472c",
         "PRIMARY_800": "#6c472c",
         "PRIMARY_900": "#6c472c",
-        "YELLOW_300": "#c96720",
+        "YELLOW_300": "#cc8e62",
         "BRAND_260": "#6c472c",
         "BRAND_360": "#9e6136",
-        "BRAND_500": "#c96720",
+        "BRAND_500": "#e3792d",
         "BRAND_560": "#6b3f20",
-        "GREEN_360": "#c96720",
-        "RED_400": "#c96720",
-        "ORANGE_345": "#c96720",
-        "RED_560": "#c96720",
-        "GREEN_345": "#c96720",
-        "BLUE_345": "#c96720",
+        "GREEN_360": "#e3792d",
+        "RED_400": "#e3792d",
+        "ORANGE_345": "#e3792d",
+        "RED_560": "#e3792d",
+        "GREEN_345": "#e3792d",
+        "BLUE_345": "#e3792d",
         "WHITE_500": "#f0d5c2"
        
     },
