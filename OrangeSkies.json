@@ -1,0 +1,142 @@
+{
+    "name": "OrangeSkies",
+    "description": "Again.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f5d0c1"
+        ],
+        "HEADER_SECONDARY": [
+            "#ba9e93"
+        ],
+        "TEXT_NORMAL": [
+            "#f5d0c1"
+        ],
+        "TEXT_MUTED": [
+            "#ba9e93"
+        ],
+        "TEXT_DANGER": [
+            "#d45320"
+        ],
+        "TEXT_LINK": [
+            "#d45320"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ba9e93"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f5d0c1"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#877168"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#220e06"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#401b0c"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#401b0c"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#220e06"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#220e06"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#401b0c"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#220e06"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#401b0c"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#401b0c"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#401b0c"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#220e06"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#361a0f"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#401b0c"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#401b0c"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#220e06"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#220e06"
+        ],
+        "KEYBOARD": [
+            "#220e06"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#f5d0c1"
+        ],
+        "CHANNEL_ICON": [
+            "#ba9e93"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ba9e93"
+        ],
+        "CHAT_BACKGROUND": [
+            "#220e06"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#220e06",
+        "PRIMARY_100": "#f5d0c1",
+        "PRIMARY_200": "#ba9e93",
+        "PRIMARY_300": "#d45320",
+        "PRIMARY_360": "#ba9e93",
+        "PRIMARY_400": "#d45320",
+        "PRIMARY_500": "#401b0c",
+        "PRIMARY_600": "#220e06",
+        "PRIMARY_630": "#220e06",
+        "PRIMARY_660": "#220e06",
+        "PRIMARY_700": "#220e06",
+        "PRIMARY_800": "#220e06",
+        "PRIMARY_900": "#220e06",
+        "YELLOW_300": "#d45320",
+        "BRAND_260": "#d45320",
+        "BRAND_360": "#a35f45",
+        "BRAND_500": "#d45320",
+        "BRAND_560": "#663c2c",
+        "GREEN_360": "#d45320",
+        "RED_400": "#d45320",
+        "ORANGE_345": "#d45320",
+        "RED_560": "#d45320",
+        "GREEN_345": "#d45320",
+        "BLUE_345": "#d45320",
+        "WHITE_500": "#f5d0c1"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1111957531884007507/New_Project_8_971AE20.png",
+    "alpha": 0.67
+  },
+    "spec": 2
+}
