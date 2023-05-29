@@ -1,0 +1,139 @@
+{
+    "name": "💎",
+    "description": "Not intended for public use - uses fanart.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f0ced0"
+        ],
+        "HEADER_SECONDARY": [
+            "#c7adae"
+        ],
+        "TEXT_NORMAL": [
+            "#f0ced0"
+        ],
+        "TEXT_MUTED": [
+            "#c7adae"
+        ],
+        "TEXT_DANGER": [
+            "#a68a8a"
+        ],
+        "TEXT_LINK": [
+            "#a68a8a"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c7adae"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f0ced0"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#917c7d"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#281718"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#3f2b2c"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3f2b2c"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#281718"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#281718"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#3f2b2c"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#281718"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#281718"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#3f2b2c"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#281718"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#584142"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#281718"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#3f2b2c"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#281718"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#281718"
+        ],
+        "KEYBOARD": [
+            "#281718"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#f0ced0"
+        ],
+        "CHANNEL_ICON": [
+            "#c7adae"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c7adae"
+        ],
+        "CHAT_BACKGROUND": [
+            "#281718"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#281718",
+        "PRIMARY_100": "#f0ced0",
+        "PRIMARY_200": "#c7adae",
+        "PRIMARY_300": "#a68a8a",
+        "PRIMARY_360": "#c7adae",
+        "PRIMARY_400": "#a68a8a",
+        "PRIMARY_500": "#3f2b2c",
+        "PRIMARY_600": "#281718",
+        "PRIMARY_630": "#281718",
+        "PRIMARY_660": "#3f2b2c",
+        "PRIMARY_700": "#281718",
+        "PRIMARY_800": "#281718",
+        "PRIMARY_900": "#281718",
+        "YELLOW_300": "#a68a8a",
+        "BRAND_260": "#a68a8a",
+        "BRAND_360": "#a68a8a",
+        "BRAND_500": "#a68a8a",
+        "BRAND_560": "#7a6262",
+        "GREEN_360": "#a68a8a",
+        "RED_400": "#a68a8a",
+        "ORANGE_345": "#a68a8a",
+        "RED_560": "#a68a8a",
+        "GREEN_345": "#a68a8a",
+        "BLUE_345": "#a68a8a",
+        "WHITE_500": "#f0ced0"
+       
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112714032688943114/New_Project_9_B90C190.png",
+        "alpha": 0.48
+    },
+    "spec": 2
+}
