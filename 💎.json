@@ -48,7 +48,7 @@
             "#3f2b2c"
         ],
         "BACKGROUND_TERTIARY": [
-            "#3f2b2c"
+            "#281718"
         ],
         "BACKGROUND_ACCENT": [
             "#281718"
@@ -60,7 +60,7 @@
             "#281718"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#281718"
+            "#3f2b2c"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#3f2b2c"
@@ -72,7 +72,7 @@
             "#584142"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#281718"
+            "#3f2b2c"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#3f2b2c"
