@@ -1,6 +1,6 @@
 {
-    "name": "MaroonSkies",
-    "description": "Maroon colored theme for Vendetta",
+    "name": "Shiggy :3",
+    "description": ":3",
     "authors": [
         {
             "name": "Ari",
@@ -9,134 +9,134 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#fcdcee"
+            "#fae8c3"
         ],
         "HEADER_SECONDARY": [
-            "#c2a7b6"
+            "#c4b699"
         ],
         "TEXT_NORMAL": [
-            "#fcdcee"
+            "#fae8c3"
         ],
         "TEXT_MUTED": [
-            "#c2a7b6"
+            "#c4b699"
         ],
         "TEXT_DANGER": [
-            "#991d61"
+            "#e0b763"
         ],
         "TEXT_LINK": [
-            "#fc65b8"
+            "#e0b763"
         ],
         "INTERACTIVE_NORMAL": [
-            "#c2a3b4"
+            "#c4b699"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#fcdcee"
+            "#fae8c3"
         ],
         "INTERACTIVE_MUTED": [
-            "#7d6874"
+            "#877d69"
         ],
         "BACKGROUND_PRIMARY": [
-            "#2e1121"
+            "#574a30"
         ],
         "BACKGROUND_SECONDARY": [
-            "#471a33"
+            "#756441"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#471a33"
+            "#756441"
         ],
         "BACKGROUND_TERTIARY": [
-            "#2e1121"
+            "#574a30"
         ],
         "BACKGROUND_ACCENT": [
-            "#2e1121"
+            "#574a30"
         ],
         "BACKGROUND_FLOATING": [
-            "#471a33"
+            "#756441"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#2e1121"
+            "#756441"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#471a33"
+            "#756441"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#471a33"
+            "#756441"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#471a33"
+            "#756441"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2e1121"
+            "#574a30"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#8a3a66"
+            "#968154"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#471a33"
+            "#756441"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#471a33"
+            "#756441"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#2e1121"
+            "#574a30"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#2e1121"
+            "#574a30"
         ],
         "KEYBOARD": [
-            "#2e1121"
+            "#574a30"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#fcdcee"
+            "#fae8c3"
         ],
         "CHANNEL_ICON": [
-            "#9e8593"
+            "#c4b699"
         ],
         "CHANNELS_DEFAULT": [
-            "#9e8593"
+            "#c4b699"
         ],
         "CHAT_BACKGROUND": [
-            "#2e1121"
+            "#574a30"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#2e1121",
-        "PRIMARY_100": "#fcdcee",
-        "PRIMARY_200": "#c2a7b6",
-        "PRIMARY_300": "#991d61",
-        "PRIMARY_360": "#c2a7b6",
-        "PRIMARY_400": "#991d61",
-        "PRIMARY_500": "#471a33",
-        "PRIMARY_600": "#2e1121",
-        "PRIMARY_630": "#2e1121",
-        "PRIMARY_660": "#2e1121",
-        "PRIMARY_700": "#2e1121",
-        "PRIMARY_800": "#2e1121",
-        "PRIMARY_900": "#2e1121",
-        "YELLOW_300": "#d92789",
-        "BRAND_260": "#991d61",
-        "BRAND_360": "#991d61",
+        "PRIMARY": "#574a30",
+        "PRIMARY_100": "#fae8c3",
+        "PRIMARY_200": "#c4b699",
+        "PRIMARY_300": "#e0b763",
+        "PRIMARY_360": "#c4b699",
+        "PRIMARY_400": "#e0b763",
+        "PRIMARY_500": "#756441",
+        "PRIMARY_600": "#574a30",
+        "PRIMARY_630": "#574a30",
+        "PRIMARY_660": "#574a30",
+        "PRIMARY_700": "#574a30",
+        "PRIMARY_800": "#574a30",
+        "PRIMARY_900": "#574a30",
+        "YELLOW_300": "#e0b763",
+        "BRAND_260": "#e0b763",
+        "BRAND_360": "#d1b271",
         "BRAND_500": "#991d61",
-        "BRAND_560": "#f075b9",
-        "GREEN_360": "#991d61",
-        "RED_400": "#991d61",
-        "ORANGE_345": "#991d61",
-        "RED_560": "#991d61",
-        "GREEN_345": "#991d61",
-        "BLUE_345": "#991d61",
-        "WHITE_500": "#fcdcee"
+        "BRAND_560": "#968154",
+        "GREEN_360": "#e0b763",
+        "RED_400": "#e0b763",
+        "ORANGE_345": "#e0b763",
+        "RED_560": "#e0b763",
+        "GREEN_345": "#e0b763",
+        "BLUE_345": "#e0b763",
+        "WHITE_500": "#fae8c3"
        
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1099615205253726350/wp7113409-evening-minimal-wallpapers.jpg",
-    "alpha": 0.67
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112928314961707088/shiggy__3_1E4B18A.png",
+    "alpha": 0.47
   },
     "spec": 2
 }
