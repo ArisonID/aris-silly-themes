@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#fae8c3"
+            "#e6cb97"
         ],
         "HEADER_SECONDARY": [
             "#c4b699"
         ],
         "TEXT_NORMAL": [
-            "#fae8c3"
+            "#e6cb97"
         ],
         "TEXT_MUTED": [
             "#c4b699"
@@ -39,61 +39,61 @@
             "#877d69"
         ],
         "BACKGROUND_PRIMARY": [
-            "#574a30"
+            "#997939"
         ],
         "BACKGROUND_SECONDARY": [
-            "#756441"
+            "#a18242"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#756441"
+            "#a18242"
         ],
         "BACKGROUND_TERTIARY": [
-            "#574a30"
+            "#997939"
         ],
         "BACKGROUND_ACCENT": [
-            "#574a30"
+            "#997939"
         ],
         "BACKGROUND_FLOATING": [
-            "#756441"
+            "#a18242"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#756441"
+            "#997939"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#756441"
+            "#a18242"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#756441"
+            "#a18242"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#756441"
+            "#a18242"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#574a30"
+            "#997939"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#968154"
+            "#b38f46"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#756441"
+            "#a18242"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#756441"
+            "#a18242"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#574a30"
+            "#997939"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#574a30"
+            "#997939"
         ],
         "KEYBOARD": [
-            "#574a30"
+            "#997939"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#fae8c3"
+            "#e6cb97"
         ],
         "CHANNEL_ICON": [
             "#c4b699"
@@ -102,23 +102,23 @@
             "#c4b699"
         ],
         "CHAT_BACKGROUND": [
-            "#574a30"
+            "#997939"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#574a30",
-        "PRIMARY_100": "#fae8c3",
+        "PRIMARY": "#997939",
+        "PRIMARY_100": "#e6cb97",
         "PRIMARY_200": "#c4b699",
         "PRIMARY_300": "#e0b763",
         "PRIMARY_360": "#c4b699",
         "PRIMARY_400": "#e0b763",
-        "PRIMARY_500": "#756441",
-        "PRIMARY_600": "#574a30",
-        "PRIMARY_630": "#574a30",
-        "PRIMARY_660": "#574a30",
-        "PRIMARY_700": "#574a30",
-        "PRIMARY_800": "#574a30",
-        "PRIMARY_900": "#574a30",
+        "PRIMARY_500": "#a18242",
+        "PRIMARY_600": "#997939",
+        "PRIMARY_630": "#997939",
+        "PRIMARY_660": "#997939",
+        "PRIMARY_700": "#997939",
+        "PRIMARY_800": "#997939",
+        "PRIMARY_900": "#997939",
         "YELLOW_300": "#e0b763",
         "BRAND_260": "#e0b763",
         "BRAND_360": "#d1b271",
@@ -130,13 +130,13 @@
         "RED_560": "#e0b763",
         "GREEN_345": "#e0b763",
         "BLUE_345": "#e0b763",
-        "WHITE_500": "#fae8c3"
+        "WHITE_500": "#e6cb97"
        
     },
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112930617185796146/shiggy__3_E4C1935.png",
-    "alpha": 0.65
+    "alpha": 0.58
   },
     "spec": 2
 }
