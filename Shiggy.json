@@ -42,10 +42,10 @@
             "#571730"
         ],
         "BACKGROUND_SECONDARY": [
-            "#872349"
+            "#691837"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#872349"
+            "#691837"
         ],
         "BACKGROUND_TERTIARY": [
             "#571730"
@@ -54,31 +54,31 @@
             "#571730"
         ],
         "BACKGROUND_FLOATING": [
-            "#872349"
+            "#691837"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#571730"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#872349"
+            "#691837"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#872349"
+            "#691837"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#872349"
+            "#691837"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#571730"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#99365b"
+            "#702441"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#872349"
+            "#691837"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#872349"
+            "#691837"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -112,7 +112,7 @@
         "PRIMARY_300": "#c2356a",
         "PRIMARY_360": "#cca7b5",
         "PRIMARY_400": "#c2356a",
-        "PRIMARY_500": "#872349",
+        "PRIMARY_500": "#691837",
         "PRIMARY_600": "#571730",
         "PRIMARY_630": "#571730",
         "PRIMARY_660": "#571730",
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112930617185796146/shiggy__3_E4C1935.png",
-    "alpha": 0.42
+    "alpha": 0.36
   },
     "spec": 2
 }
