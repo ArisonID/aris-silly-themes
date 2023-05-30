@@ -109,9 +109,9 @@
         "PRIMARY": "#571730",
         "PRIMARY_100": "#f7c8da",
         "PRIMARY_200": "#cca7b5",
-        "PRIMARY_300": "#99365b",
+        "PRIMARY_300": "#c2356a",
         "PRIMARY_360": "#cca7b5",
-        "PRIMARY_400": "#99365b",
+        "PRIMARY_400": "#c2356a",
         "PRIMARY_500": "#872349",
         "PRIMARY_600": "#571730",
         "PRIMARY_630": "#571730",
@@ -121,9 +121,9 @@
         "PRIMARY_900": "#571730",
         "YELLOW_300": "#c2356a",
         "BRAND_260": "#c2356a",
-        "BRAND_360": "#99365b",
+        "BRAND_360": "#c2356a",
         "BRAND_500": "#c2356a",
-        "BRAND_560": "#752845",
+        "BRAND_560": "#822448",
         "GREEN_360": "#c2356a",
         "RED_400": "#c2356a",
         "ORANGE_345": "#c2356a",
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1112930617185796146/shiggy__3_E4C1935.png",
-    "alpha": 0.44
+    "alpha": 0.42
   },
     "spec": 2
 }
