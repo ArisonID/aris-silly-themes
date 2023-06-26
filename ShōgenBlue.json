@@ -21,10 +21,10 @@
             "#8a8a8a"
         ],
         "TEXT_DANGER": [
-            "#3feaf1"
+            "#35babb"
         ],
         "TEXT_LINK": [
-            "#3feaf1"
+            "#35babb"
         ],
         "INTERACTIVE_NORMAL": [
             "#8a8a8a"
@@ -106,27 +106,27 @@
         "PRIMARY": "#1f1f1f",
         "PRIMARY_100": "#c9c9c9",
         "PRIMARY_200": "#8a8a8a",
-        "PRIMARY_300": "#3feaf1",
+        "PRIMARY_300": "#35babb",
         "PRIMARY_360": "#8a8a8a",
-        "PRIMARY_400": "#3feaf1",
-        "PRIMARY_500": "#3feaf1",
+        "PRIMARY_400": "#35babb",
+        "PRIMARY_500": "#35babb",
         "PRIMARY_600": "#1f1f1f",
         "PRIMARY_630": "#1f1f1f",
         "PRIMARY_660": "#1f1f1f",
         "PRIMARY_700": "#1f1f1f",
         "PRIMARY_800": "#1f1f1f",
         "PRIMARY_900": "#1f1f1f",
-        "YELLOW_300": "#3feaf1",
-        "BRAND_260": "#3feaf1",
-        "BRAND_360": "#3feaf1",
-        "BRAND_500": "#3feaf1",
+        "YELLOW_300": "#35babb",
+        "BRAND_260": "#35babb",
+        "BRAND_360": "#35babb",
+        "BRAND_500": "#35babb",
         "BRAND_560": "#239599",
-        "GREEN_360": "#3feaf1",
-        "RED_400": "#3feaf1",
-        "ORANGE_345": "#3feaf1",
-        "RED_560": "#3feaf1",
-        "GREEN_345": "#3feaf1",
-        "BLUE_345": "#3feaf1",
+        "GREEN_360": "#35babb",
+        "RED_400": "#35babb",
+        "ORANGE_345": "#35babb",
+        "RED_560": "#35babb",
+        "GREEN_345": "#35babb",
+        "BLUE_345": "#35babb",
         "WHITE_500": "#c9c9c9"
        
     },
