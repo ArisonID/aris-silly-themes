@@ -1,0 +1,139 @@
+{
+    "name": "諸元 [Shōgen]",
+    "description": "A greyish theme with a Red Moon.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#c9c9c9"
+        ],
+        "HEADER_SECONDARY": [
+            "#8a8a8a"
+        ],
+        "TEXT_NORMAL": [
+            "#c9c9c9"
+        ],
+        "TEXT_MUTED": [
+            "#8a8a8a"
+        ],
+        "TEXT_DANGER": [
+            "#ad2121"
+        ],
+        "TEXT_LINK": [
+            "#ad2121"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8a8a8a"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c9c9c9"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#616161"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#262626"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#111111"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#454545"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#454545"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#1f1f1f"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1f1f1f"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1f1f1f"
+        ],
+        "KEYBOARD": [
+            "#1f1f1f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#c9c9c9"
+        ],
+        "CHANNEL_ICON": [
+            "#8a8a8a"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8a8a8a"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1f1f1f"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#1f1f1f",
+        "PRIMARY_100": "#c9c9c9",
+        "PRIMARY_200": "#8a8a8a",
+        "PRIMARY_300": "#ad2121",
+        "PRIMARY_360": "#8a8a8a",
+        "PRIMARY_400": "#ad2121",
+        "PRIMARY_500": "#ad2121",
+        "PRIMARY_600": "#1f1f1f",
+        "PRIMARY_630": "#1f1f1f",
+        "PRIMARY_660": "#1f1f1f",
+        "PRIMARY_700": "#1f1f1f",
+        "PRIMARY_800": "#1f1f1f",
+        "PRIMARY_900": "#1f1f1f",
+        "YELLOW_300": "#ad2121",
+        "BRAND_260": "#ad2121",
+        "BRAND_360": "#ad2121",
+        "BRAND_500": "#ad2121",
+        "BRAND_560": "#db6b6b",
+        "GREEN_360": "#ad2121",
+        "RED_400": "#ad2121",
+        "ORANGE_345": "#ad2121",
+        "RED_560": "#ad2121",
+        "GREEN_345": "#ad2121",
+        "BLUE_345": "#ad2121",
+        "WHITE_500": "#c9c9c9"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://e0.pxfuel.com/wallpapers/443/886/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg",
+    "alpha": 0.68
+  },
+    "spec": 2
+}
