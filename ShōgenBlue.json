@@ -1,6 +1,6 @@
 {
-    "name": "諸元 [Shōgen]",
-    "description": "A greyish theme with a Red Moon.",
+    "name": "諸元青 [ShōgenBlue]",
+    "description": "Same, But with a blue moon.",
     "authors": [
         {
             "name": "Ari",
@@ -21,10 +21,10 @@
             "#8a8a8a"
         ],
         "TEXT_DANGER": [
-            "#ad2121"
+            "#3feaf1"
         ],
         "TEXT_LINK": [
-            "#ad2121"
+            "#3feaf1"
         ],
         "INTERACTIVE_NORMAL": [
             "#8a8a8a"
@@ -106,33 +106,33 @@
         "PRIMARY": "#1f1f1f",
         "PRIMARY_100": "#c9c9c9",
         "PRIMARY_200": "#8a8a8a",
-        "PRIMARY_300": "#ad2121",
+        "PRIMARY_300": "#3feaf1",
         "PRIMARY_360": "#8a8a8a",
-        "PRIMARY_400": "#ad2121",
-        "PRIMARY_500": "#ad2121",
+        "PRIMARY_400": "#3feaf1",
+        "PRIMARY_500": "#3feaf1",
         "PRIMARY_600": "#1f1f1f",
         "PRIMARY_630": "#1f1f1f",
         "PRIMARY_660": "#1f1f1f",
         "PRIMARY_700": "#1f1f1f",
         "PRIMARY_800": "#1f1f1f",
         "PRIMARY_900": "#1f1f1f",
-        "YELLOW_300": "#ad2121",
-        "BRAND_260": "#ad2121",
-        "BRAND_360": "#ad2121",
-        "BRAND_500": "#ad2121",
-        "BRAND_560": "#db6b6b",
-        "GREEN_360": "#ad2121",
-        "RED_400": "#ad2121",
-        "ORANGE_345": "#ad2121",
-        "RED_560": "#ad2121",
-        "GREEN_345": "#ad2121",
-        "BLUE_345": "#ad2121",
+        "YELLOW_300": "#3feaf1",
+        "BRAND_260": "#3feaf1",
+        "BRAND_360": "#3feaf1",
+        "BRAND_500": "#3feaf1",
+        "BRAND_560": "#239599",
+        "GREEN_360": "#3feaf1",
+        "RED_400": "#3feaf1",
+        "ORANGE_345": "#3feaf1",
+        "RED_560": "#3feaf1",
+        "GREEN_345": "#3feaf1",
+        "BLUE_345": "#3feaf1",
         "WHITE_500": "#c9c9c9"
        
     },
   "background": {
     "blur": 0,
-    "url": "https://e0.pxfuel.com/wallpapers/443/886/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg",
+    "url": "https://e0.pxfuel.com/wallpapers/146/254/desktop-wallpaper-sunset-blue-version-aesthetic-dark-theme-moon-nature-dark-minimalist-scenery-sun.jpg",
     "alpha": 0.68
   },
     "spec": 2
