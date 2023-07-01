@@ -92,8 +92,8 @@
         "KEYBOARD": [
             "#000000"
         ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#ffffff"
+        "CHANNEL_TEXT_AREA_BACKGROUND": [
+            "#e1e1e1"
         ],
         "CHANNEL_ICON": [
             "#e3e3e3"
