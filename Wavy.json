@@ -1,6 +1,6 @@
 {
-    "name": "No name",
-    "description": "No name for this yet",
+    "name": "Wavy",
+    "description": "Pefect for AMOLED screens.",
     "authors": [
         {
             "name": "Ari",
@@ -72,10 +72,10 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#595959"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#3d3d3d"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#696969"
