@@ -24,7 +24,7 @@
             "#747474"
         ],
         "TEXT_LINK": [
-            "#8f8f8f"
+            "#a6a6a6"
         ],
         "INTERACTIVE_NORMAL": [
             "#a1a1a1"
@@ -36,7 +36,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#919191"
+            "#707070"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
