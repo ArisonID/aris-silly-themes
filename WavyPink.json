@@ -1,6 +1,6 @@
 {
-    "name": "Wavy",
-    "description": "Pefect for AMOLED screens.",
+    "name": "WavyPink",
+    "description": "The same, but its pink :3",
     "authors": [
         {
             "name": "Ari",
@@ -21,10 +21,10 @@
             "#a6a6a6"
         ],
         "TEXT_DANGER": [
-            "#747474"
+            "#f097b5"
         ],
         "TEXT_LINK": [
-            "#a6a6a6"
+            "#f097b5"
         ],
         "INTERACTIVE_NORMAL": [
             "#a1a1a1"
@@ -51,7 +51,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#5c5c5c"
+            "#f097b5"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -108,10 +108,10 @@
     "rawColors": {
         "PRIMARY": "#000000",
         "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#d6d6d6",
-        "PRIMARY_300": "#5c5c5c",
+        "PRIMARY_200": "#d5d5d5",
+        "PRIMARY_300": "#f097b5",
         "PRIMARY_360": "#e3e3e3",
-        "PRIMARY_400": "#5c5c5c",
+        "PRIMARY_400": "#f097b5",
         "PRIMARY_500": "#000000",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
@@ -119,13 +119,13 @@
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "PRIMARY_900": "#000000",
-        "YELLOW_300": "#ffffff",
-        "BRAND_260": "#757575",
-        "BRAND_360": "#858585",
-        "BRAND_500": "#5c5c5c",
-        "BRAND_560": "#e3e3e3",
-        "GREEN_360": "#5c5c5c",
-        "RED_400": "#5c5c5c",
+        "YELLOW_300": "#f097b5",
+        "BRAND_260": "#f097b5",
+        "BRAND_360": "#f097b5",
+        "BRAND_500": "#f097b5",
+        "BRAND_560": "#eb6c96",
+        "GREEN_360": "#f097b5",
+        "RED_400": "#f097b5",
         "ORANGE_345": "#000000",
         "RED_560": "#000000",
         "GREEN_345": "#000000",
