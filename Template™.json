@@ -1,6 +1,6 @@
 {
-    "name": "MaroonSkies",
-    "description": "Maroon colored theme for Vendetta",
+    "name": "TheEveningSkies",
+    "description": "As if you're watching the sunset.",
     "authors": [
         {
             "name": "Ari",
@@ -9,120 +9,120 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#fcdcee"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#c2a7b6"
+            "#b8b8b8"
         ],
         "TEXT_NORMAL": [
-            "#fcdcee"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#c2a7b6"
+            "#e3e3e3"
         ],
         "TEXT_DANGER": [
-            "#991d61"
+            "#34478c"
         ],
         "TEXT_LINK": [
-            "#fc65b8"
+            "#34478c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#c2a3b4"
+            "##b8b8b8"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#fcdcee"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#7d6874"
+            "#969696"
         ],
         "BACKGROUND_PRIMARY": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "BACKGROUND_SECONDARY": [
-            "#471a33"
+            "#24336A"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#471a33"
+            "#092042"
         ],
         "BACKGROUND_TERTIARY": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "BACKGROUND_ACCENT": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "BACKGROUND_FLOATING": [
-            "#471a33"
+            "#24336A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#471a33"
+            "#24336A"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#471a33"
+            "#24336A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#471a33"
+            "#24336A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#8a3a66"
+            "#5772d4"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#471a33"
+            "#24336A"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#471a33"
+            "#24336A"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "KEYBOARD": [
-            "#2e1121"
+            "#0F1D53"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#fcdcee"
+            "#ffffff"
         ],
         "CHANNEL_ICON": [
-            "#9e8593"
+            "#b8b8b8"
         ],
         "CHANNELS_DEFAULT": [
-            "#9e8593"
+            "#b8b8b8"
         ],
         "CHAT_BACKGROUND": [
-            "#2e1121"
+            "#0F1D53"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#2e1121",
-        "PRIMARY_100": "#fcdcee",
-        "PRIMARY_200": "#c2a7b6",
-        "PRIMARY_300": "#991d61",
-        "PRIMARY_360": "#c2a7b6",
-        "PRIMARY_400": "#991d61",
-        "PRIMARY_500": "#471a33",
-        "PRIMARY_600": "#2e1121",
-        "PRIMARY_630": "#2e1121",
-        "PRIMARY_660": "#2e1121",
-        "PRIMARY_700": "#2e1121",
-        "PRIMARY_800": "#2e1121",
-        "PRIMARY_900": "#2e1121",
-        "YELLOW_300": "#d92789",
-        "BRAND_260": "#991d61",
-        "BRAND_360": "#991d61",
-        "BRAND_500": "#991d61",
+        "PRIMARY": "#0F1D53",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#b8b8b8",
+        "PRIMARY_300": "#34478c",
+        "PRIMARY_360": "#b8b8b8",
+        "PRIMARY_400": "#34478c",
+        "PRIMARY_500": "#24336A",
+        "PRIMARY_600": "#092042",
+        "PRIMARY_630": "#0F1D53",
+        "PRIMARY_660": "#0F1D53",
+        "PRIMARY_700": "#0F1D53",
+        "PRIMARY_800": "#0F1D53",
+        "PRIMARY_900": "#0F1D53",
+        "YELLOW_300": "#34478c",
+        "BRAND_260": "#34478c",
+        "BRAND_360": "#34478c",
+        "BRAND_500": "#34478c",
         "BRAND_560": "#f075b9",
         "GREEN_360": "#991d61",
         "RED_400": "#991d61",
