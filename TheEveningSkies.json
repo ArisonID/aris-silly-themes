@@ -102,7 +102,7 @@
             "#b8b8b8"
         ],
         "CHAT_BACKGROUND": [
-            "#0F1D53"
+            "#000000"
         ]
     },
     "rawColors": {
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
-    "alpha": 0.67
+    "alpha": 0.42
   },
     "spec": 2
 }
