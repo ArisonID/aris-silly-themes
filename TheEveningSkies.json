@@ -120,22 +120,22 @@
         "PRIMARY_800": "#0F1D53",
         "PRIMARY_900": "#0F1D53",
         "YELLOW_300": "#34478c",
-        "BRAND_260": "#34478c",
+        "BRAND_260": "#4e63ad",
         "BRAND_360": "#34478c",
         "BRAND_500": "#34478c",
-        "BRAND_560": "#f075b9",
-        "GREEN_360": "#991d61",
-        "RED_400": "#991d61",
-        "ORANGE_345": "#991d61",
-        "RED_560": "#991d61",
-        "GREEN_345": "#991d61",
-        "BLUE_345": "#991d61",
-        "WHITE_500": "#fcdcee"
+        "BRAND_560": "#34478c",
+        "GREEN_360": "#34478c",
+        "RED_400": "#34478c",
+        "ORANGE_345": "#34478c",
+        "RED_560": "#34478c",
+        "GREEN_345": "#34478c",
+        "BLUE_345": "#34478c",
+        "WHITE_500": "#ffffff"
        
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1099615205253726350/wp7113409-evening-minimal-wallpapers.jpg",
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
     "alpha": 0.67
   },
     "spec": 2
