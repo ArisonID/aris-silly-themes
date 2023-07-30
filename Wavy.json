@@ -134,7 +134,7 @@
        
     },
   "background": {
-    "blur": 2,
+    "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1124541555768840202/41_07.png",
     "alpha": 0.42
   },
