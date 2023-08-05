@@ -1,6 +1,6 @@
 {
-    "name": "TheEveningSkies",
-    "description": "As if you're staring at the sunset.",
+    "name": "TheEveningSkiesPlumpy",
+    "description": "Same theme but with Rosiecord plumpy icons, Themes+ recommended.",
     "authors": [
         {
             "name": "Ari",
@@ -138,5 +138,10 @@
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
     "alpha": 0.42
   },
+
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy"
+    },
     "spec": 2
 }
