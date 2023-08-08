@@ -141,7 +141,15 @@
 
     "plus": {
     "version": 0,
-    "iconpack": "rosiecord-plumpy"
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#536cd4",
+          "StatusMobileOnline": "#536cd4",
+          "StatusIdle": "#536cd4",
+          "StatusDND": "#536cd4",
+          "StatusOffline": "#536cd4",
+          "StatusOnline": "#536cd4"
+          }
     },
     "spec": 2
 }
