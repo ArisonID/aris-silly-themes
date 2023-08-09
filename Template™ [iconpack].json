@@ -1,0 +1,142 @@
+{
+    "name": "TheEveningSkies",
+    "description": "As if you're staring at the sunset.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b8b8b8"
+        ],
+        "TEXT_NORMAL": [
+            "#e8e8e8"
+        ],
+        "TEXT_MUTED": [
+            "#b8b8b8"
+        ],
+        "TEXT_DANGER": [
+            "#536cd4"
+        ],
+        "TEXT_LINK": [
+            "#536cd4"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b8b8b8"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#969696"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#080D21"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0F152C"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0F152C"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#080D21"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#080D21"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0F152C"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#080D21"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#0F152C"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#0F152C"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#0F152C"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#0F152C"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#131D46"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#0F152C"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#0F152C"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#080D21"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#080D21"
+        ],
+        "KEYBOARD": [
+            "#080D21"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ],
+        "CHANNEL_ICON": [
+            "#b8b8b8"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b8b8b8"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#080D21",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#b8b8b8",
+        "PRIMARY_300": "#536cd4",
+        "PRIMARY_360": "#b8b8b8",
+        "PRIMARY_400": "#536cd4",
+        "PRIMARY_500": "#0F152C",
+        "PRIMARY_600": "#080D21",
+        "PRIMARY_630": "#080D21",
+        "PRIMARY_660": "#080D21",
+        "PRIMARY_700": "#080D21",
+        "PRIMARY_800": "#080D21",
+        "PRIMARY_900": "#080D21",
+        "YELLOW_300": "#536cd4",
+        "BRAND_260": "#6e89f5",
+        "BRAND_360": "#536cd4",
+        "BRAND_500": "#536cd4",
+        "BRAND_560": "#536cd4",
+        "GREEN_360": "#536cd4",
+        "RED_400": "#536cd4",
+        "ORANGE_345": "#536cd4",
+        "RED_560": "#536cd4",
+        "GREEN_345": "#536cd4",
+        "BLUE_345": "#536cd4",
+        "WHITE_500": "#ffffff"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
+    "alpha": 0.42
+  },
+    "spec": 2
+}
