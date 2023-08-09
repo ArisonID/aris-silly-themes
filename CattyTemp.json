@@ -1,12 +1,12 @@
 {
-    "name": "TheEveningSkies",
-    "description": "As if you're staring at the sunset.",
+    "name": "Catty",
+    "description": "because cat :3.",
     "authors": [
         {
             "name": "Ari",
             "id": "639959347518242821"
-        }
-    ],
+         
+        ],
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff"
@@ -138,5 +138,17 @@
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
     "alpha": 0.42
   },
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#536cd4",
+          "StatusMobileOnline": "#536cd4",
+          "StatusIdle": "#536cd4",
+          "StatusDND": "#536cd4",
+          "StatusOffline": "#536cd4",
+          "StatusOnline": "#536cd4"
+          }
+    },
     "spec": 2
 }
