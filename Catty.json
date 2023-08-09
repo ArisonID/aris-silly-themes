@@ -21,10 +21,10 @@
             "#b8b8b8"
         ],
         "TEXT_DANGER": [
-            "#536cd4"
+            "#6877b3"
         ],
         "TEXT_LINK": [
-            "#536cd4"
+            "#6877b3"
         ],
         "INTERACTIVE_NORMAL": [
             "#b8b8b8"
@@ -39,58 +39,58 @@
             "#969696"
         ],
         "BACKGROUND_PRIMARY": [
-            "#080D21"
+            "#282f5d"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_TERTIARY": [
-            "#080D21"
+            "#282f5d"
         ],
         "BACKGROUND_ACCENT": [
-            "#080D21"
+            "#282f5d"
         ],
         "BACKGROUND_FLOATING": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#080D21"
+            "#282f5d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0F152C"
+            "#394483"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#131D46"
+            "#4e5ba3"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0F152C"
+            "#394483"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#0F152C"
+            "#394483"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#080D21"
+            "#282f5d"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#080D21"
+            "#282f5d"
         ],
         "KEYBOARD": [
-            "#080D21"
+            "#282f5d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ffffff"
@@ -106,48 +106,48 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#080D21",
+        "PRIMARY": "#282f5d",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#b8b8b8",
-        "PRIMARY_300": "#536cd4",
+        "PRIMARY_300": "#6877b3",
         "PRIMARY_360": "#b8b8b8",
-        "PRIMARY_400": "#536cd4",
-        "PRIMARY_500": "#0F152C",
-        "PRIMARY_600": "#080D21",
-        "PRIMARY_630": "#080D21",
-        "PRIMARY_660": "#080D21",
-        "PRIMARY_700": "#080D21",
-        "PRIMARY_800": "#080D21",
-        "PRIMARY_900": "#080D21",
-        "YELLOW_300": "#536cd4",
-        "BRAND_260": "#6e89f5",
-        "BRAND_360": "#536cd4",
-        "BRAND_500": "#536cd4",
-        "BRAND_560": "#536cd4",
-        "GREEN_360": "#536cd4",
-        "RED_400": "#536cd4",
-        "ORANGE_345": "#536cd4",
-        "RED_560": "#536cd4",
-        "GREEN_345": "#536cd4",
-        "BLUE_345": "#536cd4",
+        "PRIMARY_400": "#6877b3",
+        "PRIMARY_500": "#394483",
+        "PRIMARY_600": "#282f5d",
+        "PRIMARY_630": "#282f5d",
+        "PRIMARY_660": "#282f5d",
+        "PRIMARY_700": "#282f5d",
+        "PRIMARY_800": "#282f5d",
+        "PRIMARY_900": "#282f5d",
+        "YELLOW_300": "#6877b3",
+        "BRAND_260": "#8498e8",
+        "BRAND_360": "#6877b3",
+        "BRAND_500": "#6877b3",
+        "BRAND_560": "#6877b3",
+        "GREEN_360": "#6877b3",
+        "RED_400": "#6877b3",
+        "ORANGE_345": "#6877b3",
+        "RED_560": "#6877b3",
+        "GREEN_345": "#6877b3",
+        "BLUE_345": "#6877b3",
         "WHITE_500": "#ffffff"
        
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1134483485705375744/3951651.jpg",
-    "alpha": 0.42
+    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1138778179515973642/New_Project_18_373D0BA.png",
+    "alpha": 0
   },
     "plus": {
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "icons": {
-          "StatusStreaming": "#536cd4",
-          "StatusMobileOnline": "#536cd4",
-          "StatusIdle": "#536cd4",
-          "StatusDND": "#536cd4",
-          "StatusOffline": "#536cd4",
-          "StatusOnline": "#536cd4"
+          "StatusStreaming": "#6877b3",
+          "StatusMobileOnline": "#6877b3",
+          "StatusIdle": "#6877b3",
+          "StatusDND": "#6877b3",
+          "StatusOffline": "#6877b3",
+          "StatusOnline": "#6877b3"
           }
     },
     "spec": 2
