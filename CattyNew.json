@@ -1,5 +1,5 @@
 {
-    "name": "CattyTest",
+    "name": "CattyNewColors",
     "description": "because cat :3.",
     "authors": [
         {
@@ -44,19 +44,22 @@
         "BG_BASE_SECONDARY": [
             "#30396F"
         ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#30396F"
-        ],
         "BG_BASE_TERTIARY": [
-            "#202857"
+            "#30396F"
         ],
         "BACKGROUND_ACCENT": [
             "#202857"
         ],
-        "BACKGROUND_FLOATING": [
+        "BG_BACKDROP": [
             "#30396F"
         ],
-        "BACKGROUND_MOBILE_PRIMARY": [
+        "BG_SURFACE_OVERLAY": [
+            "#30396F"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#30396F"
+        ],
+        "BG_SURFACED_RAISED": [
             "#202857"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
@@ -74,7 +77,13 @@
         "BACKGROUND_MODIFIER_SELECTED": [
             "#4252ad"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
+        "BG_MOD_FAINT": [
+            "#30396F"
+        ],
+        "BG_MOD_SUBTLE": [
+            "#30396F"
+        ],
+        "BG_MOD_STRONG": [
             "#30396F"
         ],
         "SCROLLBAR_THIN_THUMB": [
