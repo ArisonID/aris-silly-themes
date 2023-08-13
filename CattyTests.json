@@ -1,5 +1,5 @@
 {
-    "name": "Catty",
+    "name": "CattyTest",
     "description": "because cat :3.",
     "authors": [
         {
@@ -38,16 +38,16 @@
         "INTERACTIVE_MUTED": [
             "#969696"
         ],
-        "BACKGROUND_PRIMARY": [
+        "BG_BASE_PRIMARY": [
             "#202857"
         ],
-        "BACKGROUND_SECONDARY": [
+        "BG_BASE_SECONDARY": [
             "#30396F"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#30396F"
         ],
-        "BACKGROUND_TERTIARY": [
+        "BG_BASE_TERTIARY": [
             "#202857"
         ],
         "BACKGROUND_ACCENT": [
