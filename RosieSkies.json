@@ -54,7 +54,7 @@
             "#965163"
         ],
         "BACKGROUND_FLOATING": [
-            "#723e4b"
+            "#723e4b45"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#572f39"
@@ -113,7 +113,7 @@
         "PRIMARY_360": "#d1b6bd",
         "PRIMARY_400": "#eb3f6a",
         "PRIMARY_500": "#723e4b",
-        "PRIMARY_600": "#572f3948",
+        "PRIMARY_600": "#572f39",
         "PRIMARY_630": "#572f39",
         "PRIMARY_660": "#572f39",
         "PRIMARY_700": "#572f39",
