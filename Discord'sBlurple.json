@@ -1,6 +1,6 @@
 {
-    "name": "TheEveningSkiesPlumpy",
-    "description": "Same theme but with Rosiecord plumpy icons, Themes+ recommended.",
+    "name": "Discord's Blurple",
+    "description": "A theme based on Discord's accent color, Blurple.",
     "authors": [
         {
             "name": "Ari",
@@ -21,10 +21,10 @@
             "#b8b8b8"
         ],
         "TEXT_DANGER": [
-            "#536cd4"
+            "#5865F2"
         ],
         "TEXT_LINK": [
-            "#536cd4"
+            "#5865F2"
         ],
         "INTERACTIVE_NORMAL": [
             "#b8b8b8"
@@ -39,58 +39,55 @@
             "#969696"
         ],
         "BACKGROUND_PRIMARY": [
-            "#080D21"
+            "#15193d"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0F152C"
+            "#232861"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0F152C"
+            "#232861"
         ],
         "BACKGROUND_TERTIARY": [
-            "#080D21"
+            "#15193d"
         ],
         "BACKGROUND_ACCENT": [
-            "#080D21"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#0F152C67"
+            "#15193d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#080D21"
+            "#15193d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0F152C"
+            "#232861"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0F152C"
+            "#232861"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#0F152C"
+            "#232861"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#0F152C"
+            "#232861"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#131D46"
+            "#34396b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0F152C"
+            "#232861"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#0F152C"
+            "#232861"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#080D21"
+            "#15193d"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#080D21"
+            "#15193d"
         ],
         "KEYBOARD": [
-            "#080D21"
+            "#15193d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ffffff"
@@ -106,31 +103,32 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#080D21",
+        "PRIMARY": "#15193d",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#b8b8b8",
-        "PRIMARY_300": "#536cd4",
+        "PRIMARY_300": "#5865F2",
         "PRIMARY_360": "#b8b8b8",
-        "PRIMARY_400": "#536cd4",
-        "PRIMARY_500": "#0F152C",
-        "PRIMARY_600": "#080D21",
-        "PRIMARY_630": "#080D21",
-        "PRIMARY_660": "#080D21",
-        "PRIMARY_700": "#080D21",
-        "PRIMARY_800": "#080D21",
-        "PRIMARY_900": "#080D21",
-        "YELLOW_300": "#536cd4",
-        "BRAND_260": "#6e89f5",
-        "BRAND_360": "#536cd4",
-        "BRAND_500": "#536cd4",
-        "BRAND_560": "#536cd4",
-        "GREEN_360": "#536cd4",
-        "RED_400": "#536cd4",
-        "ORANGE_345": "#536cd4",
-        "RED_560": "#536cd4",
-        "GREEN_345": "#536cd4",
-        "BLUE_345": "#536cd4",
-        "WHITE_500": "#ffffff"
+        "PRIMARY_400": "#5865F2",
+        "PRIMARY_500": "#232861",
+        "PRIMARY_600": "#15193d",
+        "PRIMARY_630": "#15193d",
+        "PRIMARY_660": "#15193d",
+        "PRIMARY_700": "#15193d",
+        "PRIMARY_800": "#15193d",
+        "PRIMARY_900": "#15193d",
+        "YELLOW_300": "#5865F2",
+        "BRAND_260": "#5865F2",
+        "BRAND_360": "#5865F2",
+        "BRAND_500": "#5865F2",
+        "BRAND_560": "#7581fa",
+        "GREEN_360": "#5865F2",
+        "RED_400": "#5865F2",
+        "ORANGE_345": "#5865F2",
+        "RED_560": "#5865F2",
+        "GREEN_345": "#5865F2",
+        "BLUE_345": "#5865F2",
+        "WHITE_500": "#ffffff",
+        "BLACK_500": "#15193dba"
        
     },
   "background": {
@@ -143,12 +141,12 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "icons": {
-          "StatusStreaming": "#536cd4",
-          "StatusMobileOnline": "#536cd4",
-          "StatusIdle": "#536cd4",
-          "StatusDND": "#536cd4",
-          "StatusOffline": "#536cd4",
-          "StatusOnline": "#536cd4"
+          "StatusStreaming": "#5865F2",
+          "StatusMobileOnline": "#5865F2",
+          "StatusIdle": "#5865F2",
+          "StatusDND": "#5865F2",
+          "StatusOffline": "#5865F2",
+          "StatusOnline": "#5865F2"
           }
     },
     "spec": 2
