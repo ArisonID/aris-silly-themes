@@ -1,0 +1,147 @@
+{
+    "name": "Dreamy Desire",
+    "description": "Color scheme picked from @colorschemer on Twitter.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#e8daef"
+        ],
+        "HEADER_SECONDARY": [
+            "#c8b2d4"
+        ],
+        "TEXT_NORMAL": [
+            "#e8daef"
+        ],
+        "TEXT_MUTED": [
+            "#b59bc2"
+        ],
+        "TEXT_DANGER": [
+            "#9e41c4"
+        ],
+        "TEXT_LINK": [
+            "#9e41c4"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c8b2d4"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#e8daef"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#a086ad"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#633974"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#633974"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#633974"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#7f4a94"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#a05dba"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#7f4a94"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#7f4a94"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#633974"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#633974"
+        ],
+        "KEYBOARD": [
+            "#633974"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#a086ad"
+        ],
+        "CHANNEL_ICON": [
+            "#c8b2d4"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c8b2d4"
+        ],
+        "CHAT_BACKGROUND": [
+            "#633974"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#633974",
+        "PRIMARY_100": "#e8daef",
+        "PRIMARY_200": "#c8b2d4",
+        "PRIMARY_230": "#9e41c4",
+        "PRIMARY_300": "#9e41c4",
+        "PRIMARY_360": "#c8b2d4",
+        "PRIMARY_400": "#9e41c4",
+        "PRIMARY_500": "#7f4a94",
+        "PRIMARY_600": "#7f4a94",
+        "PRIMARY_630": "#633974",
+        "PRIMARY_660": "#633974",
+        "PRIMARY_700": "#633974",
+        "PRIMARY_800": "#633974",
+        "PRIMARY_900": "#633974",
+        "YELLOW_300": "#9e41c4",
+        "BRAND_260": "#ba4ee6",
+        "BRAND_360": "#9e41c4",
+        "BRAND_500": "#9e41c4",
+        "BRAND_560": "#9e41c4",
+        "GREEN_360": "#9e41c4",
+        "RED_400": "#9e41c4",
+        "ORANGE_345": "#9e41c4",
+        "RED_560": "#9e41c4",
+        "GREEN_345": "#9e41c4",
+        "BLUE_345": "#9e41c4",
+        "WHITE_500": "#e8daef"
+       
+    },
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#9e41c4",
+          "StatusMobileOnline": "#9e41c4",
+          "StatusIdle": "#9e41c4",
+          "StatusDND": "#9e41c4",
+          "StatusOffline": "#9e41c4",
+          "StatusOnline": "#9e41c4"
+          }
+    },
+    "spec": 2
+}
