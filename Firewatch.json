@@ -127,7 +127,12 @@
         "RED_560": "#8933b0",
         "GREEN_345": "#8933b0",
         "BLUE_345": "#8933b0",
-        "WHITE_500": "#ffffff"
+        "WHITE_500": "#ffffff",
+        "PLUM_18": "#010e1d",
+        "PLUM_20": "#010e1d",
+        "PLUM_11": "#010e1d",
+        "PLUM_13": "#010e1d",
+        "PLUM_22": "#010e1d"
        
     },
   "background": {
