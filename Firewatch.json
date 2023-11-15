@@ -1,0 +1,152 @@
+{
+    "name": "Firewatch",
+    "description": "Based on the popular wallpaper.",
+    "authors": [
+        {
+            "name": "Ari",
+            "id": "639959347518242821"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b8b8b8"
+        ],
+        "TEXT_NORMAL": [
+            "#e8e8e8"
+        ],
+        "TEXT_MUTED": [
+            "#b8b8b8"
+        ],
+        "TEXT_DANGER": [
+            "#8933b0"
+        ],
+        "TEXT_LINK": [
+            "#8933b0"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b8b8b8"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#969696"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#010019"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#010e1d"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#010e1d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#010019"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#010019"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#010019"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#010e1d"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#010e1d"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#010e1d"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#010e1d"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#232245"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#010e1d"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#010e1d"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#010019"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#010019"
+        ],
+        "KEYBOARD": [
+            "#010019"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ],
+        "CHANNEL_ICON": [
+            "#b8b8b8"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b8b8b8"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#010019",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#b8b8b8",
+        "PRIMARY_300": "#8933b0",
+        "PRIMARY_360": "#b8b8b8",
+        "PRIMARY_400": "#8933b0",
+        "PRIMARY_500": "#010e1d",
+        "PRIMARY_600": "#010019",
+        "PRIMARY_630": "#010019",
+        "PRIMARY_660": "#010019",
+        "PRIMARY_700": "#010019",
+        "PRIMARY_800": "#010019",
+        "PRIMARY_900": "#010019",
+        "YELLOW_300": "#8933b0",
+        "BRAND_260": "#bf6ce6",
+        "BRAND_360": "#8933b0",
+        "BRAND_500": "#8933b0",
+        "BRAND_560": "#8933b0",
+        "GREEN_360": "#8933b0",
+        "RED_400": "#8933b0",
+        "ORANGE_345": "#8933b0",
+        "RED_560": "#8933b0",
+        "GREEN_345": "#8933b0",
+        "BLUE_345": "#8933b0",
+        "WHITE_500": "#ffffff"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/main/New%20Project%2037%20%5BC233829%5D.png",
+    "alpha": 0.42
+  },
+
+    "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+          "StatusStreaming": "#8933b0",
+          "StatusMobileOnline": "#8933b0",
+          "StatusIdle": "#8933b0",
+          "StatusDND": "#8933b0",
+          "StatusOffline": "#8933b0",
+          "StatusOnline": "#8933b0"
+          }
+    },
+    "spec": 2
+}
