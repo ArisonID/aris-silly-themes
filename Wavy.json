@@ -15,7 +15,7 @@
             "#d6d6d6"
         ],
         "TEXT_NORMAL": [
-            "#e3e3e3"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
             "#a6a6a6"
@@ -118,6 +118,12 @@
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":[
             "#5c5c5c"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#4c4c4c"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#4c4c4c"
         ]
 
     },
@@ -162,8 +168,36 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1124541555768840202/41_07.png",
+    "url": "https://raw.githubusercontent.com/ArisonID/fork-or-sum-i-do-not-know/refs/heads/main/41_07.png",
     "alpha": 0.42
+  },
+
+  "fonts":{
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+     },
+
+  "plus":{
+       "version":"0",
+       "mentionLineColor": "#ffffff4a",
+       "iconpack":"rosiecord-plumpy"
+       
   },
     "spec": 2
 }
