@@ -41,6 +41,15 @@
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
+        "BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000000"
+        ],
+        "BG_BACKDROP": [
+            "#000000"
+        ],
         "BACKGROUND_SECONDARY": [
             "#000000"
         ],
@@ -54,7 +63,7 @@
             "#5c5c5c"
         ],
         "BACKGROUND_FLOATING": [
-            "#00000045"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -101,14 +110,22 @@
         "CHANNELS_DEFAULT": [
             "#a3a3a3"
         ],
-        "CHAT_BACKGROUND": [
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":[
+            "#5c5c5c"
         ]
+
     },
     "rawColors": {
         "PRIMARY": "#000000",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#d6d6d6",
+        "PRIMARY_230": "#FFFFFF",
         "PRIMARY_300": "#5c5c5c",
         "PRIMARY_360": "#e3e3e3",
         "PRIMARY_400": "#5c5c5c",
@@ -130,8 +147,18 @@
         "RED_560": "#000000",
         "GREEN_345": "#000000",
         "BLUE_345": "#000000",
-        "WHITE_500": "#ffffff"
-       
+        "WHITE_500": "#ffffff",
+        "PLUM_1" : "#ffffff",
+        "PLUM_3": "#a6a6a6",
+        "PLUM_6": "#a6a6a6",
+        "PLUM_9": "#a6a6a6",
+        "PLUM_10": "#a6a6a6",
+        "PLUM_11": "#4d4c4c",
+        "PLUM_17": "#5c5c5c",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#5c5c5c"
+        
     },
   "background": {
     "blur": 0,
