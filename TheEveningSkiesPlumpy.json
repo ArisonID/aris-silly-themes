@@ -1,6 +1,6 @@
 {
-    "name": "TheEveningSkiesPlumpy",
-    "description": "Same theme but with Rosiecord plumpy icons, Themes+ recommended.",
+    "name": "TheEveningSkies",
+    "description": "As if you're watching the sunset.",
     "authors": [
         {
             "name": "Ari",
@@ -121,7 +121,7 @@
         "PLUM_3": "#969696",
         "PLUM_6": "#b8b8b8",
         "PLUM_9": "#b8b8b8",
-        "PLUM_10": "#b8b8b8",
+        "PLUM_10": "#ffffff",
         "PLUM_13": "#969696",
         "PLUM_17": "#080D21",
         "PLUM_18": "#080D21",
@@ -145,7 +145,7 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/ArisonID/themebg/refs/heads/main/TheEveningSkiesD.png",
-    "alpha": 0.42
+    "alpha": 0.22
   },
 
     "plus": {
