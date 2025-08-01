@@ -119,9 +119,9 @@
         "PRIMARY_900": "#080D21",
         "PLUM_1": "#ffffff",
         "PLUM_3": "#969696",
-        "PLUM_6": "#b8b8b8",
+        "PLUM_6": "#e8e8e8",
         "PLUM_9": "#b8b8b8",
-        "PLUM_10": "#ffffff",
+        "PLUM_10": "#b8b8b8",
         "PLUM_13": "#969696",
         "PLUM_17": "#080D21",
         "PLUM_18": "#080D21",
@@ -145,7 +145,7 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/ArisonID/themebg/refs/heads/main/TheEveningSkiesD.png",
-    "alpha": 0.22
+    "alpha": 0.68
   },
 
     "plus": {
