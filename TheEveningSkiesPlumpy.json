@@ -18,7 +18,7 @@
             "#e8e8e8"
         ],
         "TEXT_MUTED": [
-            "#b8b8b8"
+            "#808080"
         ],
         "TEXT_DANGER": [
             "#536cd4"
@@ -110,9 +110,11 @@
         "PRIMARY_300": "#536cd4",
         "PRIMARY_360": "#b8b8b8",
         "PRIMARY_400": "#536cd4",
-        "PRIMARY_500": "#536cd4",
+        "PRIMARY_500": "#0F152C",
+        "PRIMARY_560": "#0F152C",
         "PRIMARY_600": "#080D21",
         "PRIMARY_630": "#080D21",
+        "PRIMARY_645": "#0F152C",
         "PRIMARY_660": "#080D21",
         "PRIMARY_700": "#080D21",
         "PRIMARY_800": "#080D21",
